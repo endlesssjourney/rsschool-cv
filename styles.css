@@ -6,11 +6,12 @@
 }
 
 body {
-  background: rgb(247, 162, 255);
-  background: radial-gradient(
-    circle,
-    rgba(247, 162, 255, 1) 0%,
-    rgba(138, 230, 255, 1) 100%
+  background: rgb(118, 55, 138);
+  background: linear-gradient(
+    0deg,
+    rgba(118, 55, 138, 1) 0%,
+    rgba(216, 179, 240, 1) 85%,
+    rgba(228, 194, 255, 1) 100%
   );
 }
 
